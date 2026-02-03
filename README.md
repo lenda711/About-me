@@ -1,4 +1,4 @@
-# About-me
-Hello, I’m Lenda AlMalki.
-I’m a penetration tester and red teamer with hands-on experience in security labs, CTF challenges, and offensive security techniques.
-I’m passionate about identifying vulnerabilities, understanding attacker mindsets, and continuously improving my skills in ethical hacking and cybersecurity.
+# About-meHello, 
+Hello, I’m Lenda Almalki.
+I’m a cybersecurity student specializing in penetration testing and red teaming, where understanding how systems fail is just as important as knowing how they are built.
+I’m interested in machine learning and how it can be used to detect patterns, enhance security defenses, and support smarter decision making in cybersecurity
